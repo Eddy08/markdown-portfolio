@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Want to Become A System Engineers**
+-*Inter personal skils*-     |     -*Programming Skils*-   
+  -Listening Skills-         |        -Java-       --JavaEE *JavaFx*-- 
+  -Reading Skills-           |        -Big Data-  --Hadoop--
+  -Writing Skills-           |        -Python-    --Machine Learning--
