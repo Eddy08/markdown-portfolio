@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# My Name is Eddy08 
+## My Pet is Dog
